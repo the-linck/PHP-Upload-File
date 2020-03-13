@@ -1,4 +1,4 @@
-# PHP-Server-Request
+# PHP-Upload-File
 
 This library s meant to simplify PHP's file upload logic, making easier to deal with single or multiple files upload.
 
